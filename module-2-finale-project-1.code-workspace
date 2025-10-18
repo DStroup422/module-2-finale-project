@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "module-2-finale-project-1",
+			"path": "."
+		},
+		{
+			"name": "assets",
+			"path": "../OneDrive/Desktop/assets"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "module-2-finale-project-1"
+	}
+}
