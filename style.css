@@ -860,20 +860,6 @@ PRICING ↓
   opacity: 0.25;
 }
 
-/* layout plans side-by-side on larger screens */
-.plans {
-  display: grid;
-  grid-template-columns: 1fr;
-  gap: 24px;
-  width: 100%;
-  justify-items: center;
-  margin-top: 32px;
-}
-
-.plan {
-  max-width: 360px;
-}
-
 
 
 
