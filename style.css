@@ -140,6 +140,7 @@ nav {
   }
 .nav__links {
   display: flex;
+
   align-items: center;
   padding-bottom: 2px;
 }
@@ -380,11 +381,10 @@ FEATURES ↓
 
 */
 
-.features{
+.features {
   position: relative;
 }
-
-.features .row__narrow {
+.features.row__narrow {
   display: flex;
   flex-direction: column;
   align-items: center;
