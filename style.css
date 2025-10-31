@@ -563,9 +563,15 @@ header {
 .values__description {
   padding: 32px 64px 32px 0;
 }
-.values__description,
+.values__description {
+  width: 45%;
+}
 .values__img {
-  width: 50%;
+  width: 55%;
+}
+.values__img > img {
+  width: 100%;
+  height: auto;
 }
 .values__list {
   margin-left: 0px;
@@ -803,9 +809,10 @@ header {
   position: relative;
   flex-direction: row;
   width: 100%;
-  justify-content: center;
- 
-  gap: 2rem;
+  justify-content: space-between;
+
+
+
 }
 
 /* TESTIMONIALS */
